@@ -1,7 +1,4 @@
-- 👋 Hi, I’m @stephenobinna
-- 👀 I’m interested in game developement and machine learning
-- 🌱 I’m currently learning web design with webflow and unity
-- 💞️ I’m looking to collaborate on game dev projects
+- 👋 Hi, I’m @ustephenobinna
 - 📫 Reach me on email via ustephenobinna@gmail.com
 
 <!---
